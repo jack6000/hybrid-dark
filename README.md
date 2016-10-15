@@ -1,0 +1,1 @@
+A QtCreator dark colorsheme
